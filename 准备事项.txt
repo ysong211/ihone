@@ -1,0 +1,6 @@
+1、安装mysql_server，redis
+2、mysql中执行ihome.sql
+3、安装项目所需要的包（piplist.txt）
+4、修改config.py中，数据库的配置。（改为你自己所连接的）
+5、运行server.py
+
